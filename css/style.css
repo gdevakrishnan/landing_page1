@@ -686,6 +686,10 @@ nav label .fa {
     flex-direction: column;
   }
 
+  .booking_page .booking_container form .form_group input {
+    width: 100%;
+  }
+
   .booking_page .booking_container {
     width: 100%;
   }
@@ -758,4 +762,6 @@ footer .footer2 p {
   * {
     cursor: default;
   }
+
+
 }
